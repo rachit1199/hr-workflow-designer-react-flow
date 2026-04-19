@@ -1,5 +1,7 @@
 # HR Workflow Designer
 
+<img src="https://github.com/rachit1199/BookStore/blob/main/1.jpg" />
+
 A full-stack-ready, production-quality HR Workflow Designer built for the Tredence Studio Full Stack Engineering Internship case study.
 
 ---
